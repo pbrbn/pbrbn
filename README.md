@@ -2,7 +2,9 @@
 
 Je suis étudiant à l'Université Lumière Lyon 2 en Master 2 - SISE (Statistiques et Informatique pour la Science des Données). Ce Master m'a permit d'acquérir toutes les compétences nécessaires pour évoluer dans le monde de la Data. 
 
-<img src="Competences_SISE.png" alt="Compétences Master 2 - SISE" width="200"/>
+<div align="center">
+    <img src="Competences_SISE.png" alt="Compétences Master 2 - SISE" width="400"/>
+</div>
 
 Fort de 5 années d'expériences en tant qu'ostéopathe, j'ai acquis de nombreuses compétences dans la prise en charge des troubles musculo-squelletiques et des données de santé de manière générale. J'ai décidé de me spécialiser dans l'analyse de données et l'intelligence artificielle pour répondre aux enjeux de la santé de demain. 
 
