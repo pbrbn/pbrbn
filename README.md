@@ -18,7 +18,7 @@ Vous trouverez sur mon profil différents projets réalisés dans le cadre de mo
 
 Vous pouvez me contacter via :
 
-- **LinkedIn** : [Profil LinkedIn](URL)
+- **LinkedIn** : [Profil LinkedIn](in/pierre-bourbon-7b6b7012a)
 - **Email** : bourbonpierre@outlook.fr
 
 ---
