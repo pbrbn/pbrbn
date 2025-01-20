@@ -1,6 +1,7 @@
  # Bienvenue sur mon profil GitHub !
 
 Je suis étudiant à l'Université Lumière Lyon 2 en Master 2 - SISE (Statistiques et Informatique pour la Science des Données). 
+
 Fort de 5 années d'expériences en tant qu'ostéopathe, j'ai acquis de nombreuses compétences dans la prise en charge des troubles musculo-squelletiques et des données de santé de manière générale. J'ai décidé de me spécialiser dans l'analyse de données et l'intelligence artificielle pour répondre aux enjeux de la santé de demain. 
 
 Vous trouverez sur mon profil différents projets réalisés dans le cadre de mon Master2 - SISE. Mais également des projets réalisés dans le cadre de mon stage. (A venir)
